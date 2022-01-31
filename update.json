@@ -1,9 +1,9 @@
 {
     "file":"https://raw.githubusercontent.com/Just-Mini/biblioteki/main/AS%20Helper.lua",
-    "version":"3.0",
-    "change_log":"test",
+    "version":"1.0",
+    "change_log":"Release",
     "beta_upd":true,
     "beta_file":"https://raw.githubusercontent.com/Just-Mini/biblioteki/main/AS%20Helper%20beta.lua",
-    "beta_version":"3.0 beta",
-    "beta_changelog":"beta test"
+    "beta_version":"1.0",
+    "beta_changelog":"Release"
 }
